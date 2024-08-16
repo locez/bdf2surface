@@ -1,0 +1,9 @@
+[package]
+name = "bdf2surface"
+version = "0.0.1"
+author = "Locez <locez@locez.com>"
+edition = "2021"
+
+[dependencies]
+bdf = "0.6.0"
+sdl2 = "0.37.0"
