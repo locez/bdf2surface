@@ -25,3 +25,8 @@ let texts = vec![
 let surface = converter.render(&texts, 60).unwrap();
 surface.save_bmp("output.bmp")?;
 ```
+output.bmp
+
+![output.bmp](./images/example.png)
+
+
