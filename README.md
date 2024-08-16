@@ -2,7 +2,7 @@
 
 A crate to convert bdf font to sdl2 surface
 
- #Example
+ #  Example
 
 ``` rust
 use sdl2::surface::Surface;
