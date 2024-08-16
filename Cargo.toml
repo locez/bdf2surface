@@ -1,9 +1,12 @@
 [package]
 name = "bdf2surface"
 version = "0.0.1"
-author = "Locez <locez@locez.com>"
+authors = ["Locez"]
 edition = "2021"
+description = "A crate to convert bdf font to sdl2 surface"
+license = "MIT"
 
-[dependencies]
+
+[dependencies]  
 bdf = "0.6.0"
 sdl2 = "0.37.0"

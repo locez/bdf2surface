@@ -1,7 +1,7 @@
 use sdl2::pixels::PixelFormatEnum;
 use sdl2::surface::Surface;
 
-/// A create to convert bdf font to sdl2 surface
+/// A crate to convert bdf font to sdl2 surface
 ///
 ///  #Example
 ///
